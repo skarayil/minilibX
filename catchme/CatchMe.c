@@ -1,4 +1,4 @@
-#include "/Users/sudenazkarayildirim/Desktop/ex/minilibx/mlx.h"
+#include "../minilibx/mlx.h"
 #include <math.h>
 #include <stdint.h>
 #include <stdio.h>
